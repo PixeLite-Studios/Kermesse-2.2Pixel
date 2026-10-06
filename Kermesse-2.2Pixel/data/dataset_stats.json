@@ -1,0 +1,115 @@
+{
+ "conversaciones": 17000,
+ "train": 16490,
+ "val": 510,
+ "caracteres_totales": 4212019,
+ "caracteres_respuestas_kermesse": 3185566,
+ "turnos_kermesse": 47498,
+ "vocab": 94,
+ "largo_medio_conv": 247.8,
+ "respuestas_kermesse_unicas": 7101,
+ "mensajes_usuario_unicos": 19188,
+ "intenciones": 218,
+ "top_unidades": [
+  [
+   "saludo",
+   2886
+  ],
+  [
+   "despedida",
+   2777
+  ],
+  [
+   "math",
+   2320
+  ],
+  [
+   "capital",
+   1999
+  ],
+  [
+   "saludo_como_estas",
+   1417
+  ],
+  [
+   "despedida_noche",
+   1392
+  ],
+  [
+   "name",
+   1314
+  ],
+  [
+   "saludo_manana",
+   1310
+  ],
+  [
+   "joke",
+   1067
+  ],
+  [
+   "riddle",
+   1018
+  ],
+  [
+   "trivia",
+   912
+  ],
+  [
+   "translate",
+   825
+  ],
+  [
+   "usuario_bien",
+   766
+  ],
+  [
+   "bien_y_vos",
+   751
+  ],
+  [
+   "calendar",
+   722
+  ],
+  [
+   "usuario_mal",
+   705
+  ],
+  [
+   "ya_volvi",
+   702
+  ],
+  [
+   "saludo_tarde",
+   676
+  ],
+  [
+   "saludo_noche",
+   649
+  ],
+  [
+   "usuario_regular",
+   647
+  ],
+  [
+   "mal_y_vos",
+   642
+  ],
+  [
+   "fact",
+   637
+  ],
+  [
+   "rps",
+   635
+  ],
+  [
+   "hobby",
+   590
+  ],
+  [
+   "food",
+   550
+  ]
+ ]
+}

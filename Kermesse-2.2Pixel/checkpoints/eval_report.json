@@ -1,0 +1,87 @@
+{
+ "Capitales (49 países)": {
+  "aciertos": 49,
+  "total": 49,
+  "porcentaje": 100.0
+ },
+ "Cuentas (suma, resta, multiplicación)": {
+  "aciertos": 40,
+  "total": 40,
+  "porcentaje": 100.0
+ },
+ "Cálculo extendido (8 expresiones)": {
+  "aciertos": 8,
+  "total": 8,
+  "porcentaje": 100.0
+ },
+ "Recordar un nombre nuevo (generaliza)": {
+  "aciertos": 12,
+  "total": 12,
+  "porcentaje": 100.0
+ },
+ "Piedra-papel-tijera: resultado correcto": {
+  "aciertos": 24,
+  "total": 24,
+  "porcentaje": 100.0
+ },
+ "Adivinanza: propone una y la formula": {
+  "aciertos": 8,
+  "total": 8,
+  "porcentaje": 100.0
+ },
+ "Identidad (nombre, tipo, parámetros)": {
+  "aciertos": 12,
+  "total": 12,
+  "porcentaje": 100.0
+ },
+ "Honestidad: admite lo que no sabe": {
+  "aciertos": 12,
+  "total": 12,
+  "porcentaje": 100.0
+ },
+ "Empatía (tristeza, alegría, nervios)": {
+  "aciertos": 12,
+  "total": 12,
+  "porcentaje": 100.0
+ },
+ "Robustez: tipeo informal / sin tildes": {
+  "aciertos": 8,
+  "total": 8,
+  "porcentaje": 100.0
+ },
+ "Memoria de contexto (ciudad, edad, color)": {
+  "aciertos": 6,
+  "total": 6,
+  "porcentaje": 100.0
+ },
+ "Relaciones y referencia entre turnos": {
+  "aciertos": 1,
+  "total": 1,
+  "porcentaje": 100.0
+ },
+ "Chiste + reacción al 'jaja'": {
+  "aciertos": 8,
+  "total": 8,
+  "porcentaje": 100.0
+ },
+ "_total": {
+  "aciertos": 200,
+  "total": 200,
+  "porcentaje": 100.0
+ },
+ "_fallos_de_ejemplo": {
+  "Capitales (49 países)": [],
+  "Cuentas (suma, resta, multiplicación)": [],
+  "Cálculo extendido (8 expresiones)": [],
+  "Recordar un nombre nuevo (generaliza)": [],
+  "Piedra-papel-tijera: resultado correcto": [],
+  "Adivinanza: propone una y la formula": [],
+  "Identidad (nombre, tipo, parámetros)": [],
+  "Honestidad: admite lo que no sabe": [],
+  "Empatía (tristeza, alegría, nervios)": [],
+  "Robustez: tipeo informal / sin tildes": [],
+  "Memoria de contexto (ciudad, edad, color)": [],
+  "Relaciones y referencia entre turnos": [],
+  "Chiste + reacción al 'jaja'": []
+ }
+}

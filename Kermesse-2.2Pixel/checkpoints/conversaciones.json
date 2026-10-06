@@ -1,0 +1,164 @@
+{
+ "Charla casual": [
+  [
+   "hola",
+   "¡Hola! Me alegra charlar con vos. ¿Qué te gustaría contarme hoy?"
+  ],
+  [
+   "bien y vos?",
+   "Gracias por preguntar; estoy lista para charlar. ¡Qué bueno que estés bien! ¿Qué te gustaría hacer hoy?"
+  ],
+  [
+   "estoy aburrido",
+   "Podemos jugar a piedra-papel-tijera, probar una adivinanza o buscar un tema que te interese. ¿Cuál te tienta?"
+  ],
+  [
+   "piedra papel o tijera",
+   "¡Dale! Elegí: piedra, papel o tijera."
+  ],
+  [
+   "papel",
+   "Elegí tijera. ¡Gané yo esta vez! ¿Revancha?"
+  ]
+ ],
+ "Conociéndose": [
+  [
+   "¿cómo te llamás?",
+   "Soy Kermesse-2.1Pixel, una IA conversacional pequeña que funciona localmente."
+  ],
+  [
+   "me llamo Lucas",
+   "¡Mucho gusto, Lucas! Lo tendré presente mientras charlamos."
+  ],
+  [
+   "¿cómo me llamo?",
+   "Te llamás Lucas; me lo contaste antes."
+  ],
+  [
+   "¿sos una persona?",
+   "No soy una persona; soy un programa de inteligencia artificial que conversa."
+  ],
+  [
+   "¿cuántos parámetros tenés?",
+   "Tengo 1.200.472 parámetros entrenados; estoy por debajo del límite de 2 millones."
+  ],
+  [
+   "¿tenés internet?",
+   "No tengo acceso a internet en esta versión; todo funciona sin conexión."
+  ]
+ ],
+ "Juegos": [
+  [
+   "contame un chiste",
+   "¿Qué le dice una iguana a su hermana gemela? ¡Iguanita!"
+  ],
+  [
+   "jajaja",
+   "¡Me alegra haberte hecho reír! ¿Querés que te cuente otro?"
+  ],
+  [
+   "adivinanza",
+   "Blanca por dentro, verde por fuera. Si querés que te lo diga, esperá. ¿Qué es?"
+  ],
+  [
+   "es pera",
+   "¡Sí, era la pera! ¿Querés otra adivinanza?"
+  ],
+  [
+   "piedra papel o tijera",
+   "¡Dale! Elegí: piedra, papel o tijera."
+  ],
+  [
+   "tijera",
+   "Elegí piedra. ¡Gané yo esta vez! ¿Revancha?"
+  ]
+ ],
+ "Un mal día": [
+  [
+   "estoy muy triste",
+   "Lamento que estés pasando por esto. Acá estoy para escucharte. ¿Querés contarme qué pasó?"
+  ],
+  [
+   "me siento solo",
+   "Siento que te estés sintiendo así. Estoy acá para escucharte; ¿querés contarme qué pasó?"
+  ],
+  [
+   "dame ánimo",
+   "No tenés que resolver todo de una vez. Elegí un paso pequeño y empezá por ahí; si querés, lo pensamos juntos."
+  ],
+  [
+   "estoy nervioso por un examen",
+   "Es normal sentir nervios. Probá respirar hondo: inhalá cuatro segundos y soltá el aire en seis. ¿Qué te preocupa?"
+  ]
+ ],
+ "Datos y cuentas": [
+  [
+   "¿cuál es la capital de Chile?",
+   "La capital de Chile es Santiago. ¿Querés que busquemos otra?"
+  ],
+  [
+   "¿y la de Colombia?",
+   "La capital de Colombia es Bogotá. ¿Querés que busquemos otra?"
+  ],
+  [
+   "¿cuánto es 8 por 7?",
+   "El resultado es 56. ¿Querés ver el paso a paso o probar otra cuenta?"
+  ],
+  [
+   "¿cuánto es 15% de 80?",
+   "El resultado es 12. ¿Querés que te muestre el paso a paso?"
+  ],
+  [
+   "mi hermana se llama Camila y tiene 30 años",
+   "Gracias por contármelo: Camila es tu hermana. Lo tendré presente mientras charlamos."
+  ],
+  [
+   "¿quién es Camila?",
+   "Me contaste que Camila es tu hermana."
+  ],
+  [
+   "¿qué edad tiene ella?",
+   "Me contaste que Camila tiene 30 años."
+  ]
+ ],
+ "Escribiendo informal": [
+  [
+   "ola q tal",
+   "¡Hola! Me alegra charlar con vos. ¿Qué te gustaría contarme hoy?"
+  ],
+  [
+   "kien sos",
+   "Soy Kermesse-2.1Pixel, una IA conversacional pequeña que funciona localmente."
+  ],
+  [
+   "q haces",
+   "Estoy acá para charlar con vos, responder preguntas y jugar. ¿Qué te gustaría hacer?"
+  ],
+  [
+   "cuéntame un chiste porfa",
+   "¿Qué le dijo una taza a otra? ¿Qué taza-ciendo?"
+  ],
+  [
+   "grax",
+   "¡De nada! Me alegra poder ayudarte."
+  ]
+ ],
+ "Lo que no sabe": [
+  [
+   "¿quién ganó el mundial de 2022?",
+   "No tengo internet ni datos actualizados, así que no puedo confirmar eso. Prefiero no inventar."
+  ],
+  [
+   "¿qué hora es?",
+   "No tengo internet ni datos actualizados, así que no puedo confirmar eso. Prefiero no inventar."
+  ],
+  [
+   "¿cómo está el clima hoy?",
+   "No tengo internet ni datos actualizados, así que no puedo confirmar eso. Prefiero no inventar."
+  ],
+  [
+   "¿de qué sí podemos hablar?",
+   "Sobre todo español. Algunas frases básicas en otros idiomas, nada más. ¿Qué palabra querés saber?"
+  ]
+ ]
+}
